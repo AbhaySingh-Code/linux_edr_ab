@@ -1,1 +1,1 @@
-![Project Screenshot](ebpf_keylog_detection.png)
+![Project Screenshot](epbf_keylog_detection.png)
